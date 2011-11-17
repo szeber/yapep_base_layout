@@ -1,0 +1,3 @@
+[submodule "YapepBase"]
+	path = YapepBase
+	url = git://github.com/szeber/yapep_base.git
