@@ -1,0 +1,12 @@
+
+syntax: regexp
+^\.settings$
+syntax: regexp
+^\.project$
+syntax: regexp
+^\.buildpath$
+syntax: regexp
+^cache/
+syntax: regexp
+^log/
+
